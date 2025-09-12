@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this resources, please cite it as below."
+authors:
+- family-names: "Mateu Fernández"
+  given-names: "Ricardo"
+- family-names: "Vázquez-Veloso"
+  given-names: "Aitor"
+  orcid: "https://orcid.org/0000-0003-0227-506X"  
+- family-names: "Bravo"
+  given-names: "Felipe"
+  orcid: "https://orcid.org/0000-0001-7348-6695"
+title: 'Code, data and resources for "ANÁLISIS TÉCNICO DE ALTERNATIVAS Y PROPUESTA SELVÍCOLA PARA LA FIJACIÓN DE CARBONO EN REBOLLARES DE MONTE BAJO EN CASTILLA Y LEÓN"'
+version: 1.0.0
+doi: 
+date-released: 2025-09-12
+url: "https://github.com/aitorvv/TFG-analisis_selvicola_rebollares_monte_bajo_CyL"
